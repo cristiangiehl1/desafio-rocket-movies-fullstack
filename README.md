@@ -48,14 +48,17 @@ Esse projeto desenvolveu as seguintes páginas da aplicação:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
+- HTML5
 - JavaScript
 - CSS-in-JS
 - ReactJS
 - Node.js
 - Vite
+- Sqlite3
 - Git e Github
 - Figma
+- JWT
+- knex
   
 ## 📚 Bibliotecas
 
@@ -65,5 +68,11 @@ Esse projeto foi desenvolvido com as seguintes bibliotecas:
 - react-router-dom
 - styled-components
 - react-dom
+- axios
+- cros
+- express e express-async-errors
+- bcryptjs
+- nodemon
+
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
