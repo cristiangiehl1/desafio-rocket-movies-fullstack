@@ -1,8 +1,6 @@
 <h1 align="center"> Desafio RocketMovies 🎥</h1>
 
 <h2 align="center"> Principais pontos que devem ser entregues nesse desafio:</h2>
-<br>
-<br>
 <ol>
   <li>
     <h3>Autenticação</h3>
